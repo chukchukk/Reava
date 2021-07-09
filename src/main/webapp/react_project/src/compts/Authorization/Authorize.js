@@ -24,7 +24,7 @@ export default class Authorize extends Component {
         this.setState({password: event.target.value})
     }
 
-    sendData(event) {
+    sendData() {
         const user = {
             login: this.state.login,
             password: this.state.password
