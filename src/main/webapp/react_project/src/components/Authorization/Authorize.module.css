@@ -1,0 +1,17 @@
+.formWithInput{
+    display: block;
+    width: 300px;
+    margin: 10% auto;
+    background: #f59afd;
+    border-radius: 30px;
+    padding: 20px;
+}
+
+.inputForText{
+    width: 80%;
+    margin: 10px 10px 10px 10px;
+}
+
+.centralInsideThisEl{
+    text-align: center;
+}

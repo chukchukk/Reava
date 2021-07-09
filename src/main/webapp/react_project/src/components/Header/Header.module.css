@@ -1,0 +1,9 @@
+.basicDiv {
+    padding: 5px 20px 5px;
+    background: #d9ce67;
+}
+
+div a{
+    text-decoration: none;
+    margin: 0 10px 0 10px;
+}
